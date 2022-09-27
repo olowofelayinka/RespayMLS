@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXOcNK0qWRF4K2Z1H13IevRdE5pV69vNTWXIX/oFxcDCQe7mnGnEIIZbkEI2sVmUfQKzd5r2acAgMG5SM8zFIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olowoyinka\\source\\repos\\RespayMLS\\RespayMLS\\RespayMLS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
